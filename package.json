@@ -4,8 +4,8 @@
   "description": "Conversor de moeda",
   "main": "index.js",
   "dependencies": {
-    "pupeteer": "^0.0.1",
-    "puppeteer": "^9.1.1"
+    "puppeteer": "^9.1.1",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {},
   "scripts": {
